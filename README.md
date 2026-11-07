@@ -35,6 +35,8 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 - $\color{#2BBF9F}\textsf{I am offtab sometimes . whisper to interact is prefered !}$
 
 - $\color{#2BBF9F}\textsf{Tone tags aren't required when talking with me but they are highly encouraged .}$
+
+- $\color{#2BBF9F}\textsf{Do not vent to me unless i consider you as a close or trusted friend .}$
   
 - $\color{#2BBF9F}\textsf{More too be added .}$
   </details>
