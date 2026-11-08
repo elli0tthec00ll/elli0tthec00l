@@ -1,6 +1,10 @@
 <img width="1600" height="320" alt="Mastery_Banner_II_Scythe" src="https://github.com/user-attachments/assets/b3c6020e-7fea-4191-a629-5fcb16c9e9f1" />
 
+<div align="center">
+
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
+
+</div>
 
 <div align="center">
   
@@ -9,7 +13,7 @@ $\color{#2BBF9F}\tiny\textsf{Best viewed on pc and with dark mode !}$
 
 ![](https://komarev.com/ghpvc/?username=elli0tthec00ll&label=♡&color=2BBF9F)
 
-</div>
+<div align="center">
 
 <div align="center">
 
