@@ -125,15 +125,15 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <details>
 <summary>$\color{#2BBF9F}\textsf{𓏵 DNI ♡}$</summary>
   
-- $\color{#2BBF9F}\textsf{Drama .}$
+$\color{#2BBF9F}\textsf{Drama .}$
   
-- $\color{#2BBF9F}\textsf{T.R.A.S.H}$
+$\color{#2BBF9F}\textsf{T.R.A.S.H}$
   
-- $\color{#2BBF9F}\textsf{Pro/Darkshippers .}$
+$\color{#2BBF9F}\textsf{Pro/Darkshippers .}$
   
-- $\color{#2BBF9F}\textsf{MAGA .}$
+$\color{#2BBF9F}\textsf{MAGA .}$
   
-- $\color{#2BBF9F}\textsf{Chance yumes ! (I'm a voidsharing chance yumeshipper .}$
+$\color{#2BBF9F}\textsf{Chance yumes ! (I'm a voidsharing chance yumeshipper .}$
 
 - $\color{#2BBF9F}\textsf{Scythe and Mafioso kins ( Sorry i get uncomforable . ) .}$
 </details>
@@ -151,9 +151,9 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <details>
 <summary>$\color{#2BBF9F}\textsf{! NOMINATIONS !}$</summary>
 
-- [𖦏](https://github.com/piddlesjet) $\color{#2BBF9F}\textsf{Piddles Jet | Pony Towns scythe rifle ! Thank you !}$
+[𖦏](https://github.com/piddlesjet) $\color{#2BBF9F}\textsf{Piddles Jet | Pony Towns scythe rifle ! Thank you !}$
 
-- [𖦏](https://github.com/Knox-Event) $\color{#2BBF9F}\textsf{Knox Events | Knox Events scythe rifle and the most wanted by boggio ♪ ! Thank you !}$
+[𖦏](https://github.com/Knox-Event) $\color{#2BBF9F}\textsf{Knox Events | Knox Events scythe rifle and the most wanted by boggio ♪ ! Thank you !}$
 </details>
 
 </div>
