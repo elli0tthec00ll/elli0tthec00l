@@ -17,6 +17,8 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
 </div>
 
+<div align="center">
+
 <details>
 <summary>$\color{#2BBF9F}\textsf{ᛝ ABOUT ME ♡}$</summary>
   
@@ -32,6 +34,8 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
 - $\color{#2BBF9F}\textsf{More too be added .}$
 </details>
+
+</div>
 
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
