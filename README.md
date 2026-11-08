@@ -115,6 +115,8 @@ $\color{#2BBF9F}\textsf{Phighting Area}$
 $\color{#2BBF9F}\textsf{Island (Probably spectating rps or hosting , I host Guess the characters sometimes !)}$
 
 $\color{#2BBF9F}\textsf{With Friends (˶ˆᗜˆ˵)}$
+
+$\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
  
 $\color{#2BBF9F}\huge\textsf{SAFE SERVER 2}$
  
