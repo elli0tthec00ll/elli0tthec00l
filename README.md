@@ -37,7 +37,13 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
 </div>
 
+<div align="center">
+
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
+
+</div>
+
+<div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{𓏲ּ𝄢 BYI ₊⊹}$</summary>
@@ -52,8 +58,16 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
   
 - $\color{#2BBF9F}\textsf{More too be added .}$
   </details>
+
+  </div>
+
+  <div align="center">
   
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
+
+  </div>
+
+  <div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{♯ WHERE YOU'LL SEE ME AT ಄}$</summary>
@@ -77,7 +91,8 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
   - $\color{#2BBF9F}\textsf{Above Bakery}$
   
   </details>
-
+  
+</div>
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
 <details>
