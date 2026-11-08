@@ -3,13 +3,10 @@
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
 <div align="center">
-
 $\color{#2BBF9F}\huge\textsf{[ SCYTHE ] : ❝ Oh how rude of me . . . Allow me too reintroduce myself properly ♡ ! ❞}$
 $\color{#2BBF9F}\tiny\textsf{Best viewed on pc and with dark mode !}$
 
 ![](https://komarev.com/ghpvc/?username=elli0tthec00ll&label=♡&color=2BBF9F)
-
-
 
 </div>
 
