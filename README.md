@@ -59,17 +59,39 @@ $\color{#2BBF9F}\textsf{I am offtab sometimes . whisper to interact is prefered 
 $\color{#2BBF9F}\textsf{Tone tags aren't required when talking with me but they are highly encouraged .}$
 
 $\color{#2BBF9F}\textsf{Do not vent to me unless i consider you as a close or trusted friend .}$
+
+$\color{#2BBF9F}\textsf{I am a VoidSharing chance yumeshipper so yes i will be blocking and / or avoiding doubles .}$
   
 $\color{#2BBF9F}\textsf{More too be added .}$
   </details>
 
   </div>
-
-  <div align="center">
   
+<div align="center">
+
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
-  </div>
+</div>
+
+   <div align="center">
+
+<details>
+<summary>$\color{#2BBF9F}\textsf{𓏵 DNI ♡}$</summary>
+  
+$\color{#2BBF9F}\textsf{Drama .}$
+  
+$\color{#2BBF9F}\textsf{T.R.A.S.H}$
+  
+$\color{#2BBF9F}\textsf{Pro/Darkshippers .}$
+  
+$\color{#2BBF9F}\textsf{MAGA .}$
+  
+$\color{#2BBF9F}\textsf{Chance yumes !}$
+
+$\color{#2BBF9F}\textsf{Scythe and Mafioso kins ( Sorry i get uncomforable . ) .}$
+</details>
+
+</div>
 
   <div align="center">
 
@@ -121,26 +143,6 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
  <div align="center">
 
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
-</div>
-
- <div align="center">
-
-<details>
-<summary>$\color{#2BBF9F}\textsf{𓏵 DNI ♡}$</summary>
-  
-$\color{#2BBF9F}\textsf{Drama .}$
-  
-$\color{#2BBF9F}\textsf{T.R.A.S.H}$
-  
-$\color{#2BBF9F}\textsf{Pro/Darkshippers .}$
-  
-$\color{#2BBF9F}\textsf{MAGA .}$
-  
-$\color{#2BBF9F}\textsf{Chance yumes ! (I'm a voidsharing chance yumeshipper .}$
-
-$\color{#2BBF9F}\textsf{Scythe and Mafioso kins ( Sorry i get uncomforable . ) .}$
-</details>
 
 </div>
 
