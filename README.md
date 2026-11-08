@@ -154,6 +154,8 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 [𖦏](https://github.com/piddlesjet) $\color{#2BBF9F}\textsf{Piddles Jet | Pony Towns scythe rifle ! Thank you !}$
 
 [𖦏](https://github.com/Knox-Event) $\color{#2BBF9F}\textsf{Knox Events | Knox Events scythe rifle and the most wanted by boggio ♪ ! Thank you !}$
+
+[𖦏](https://github.com/THE-TEMPIST) $\color{#2BBF9F}\textsf{The Tempest | The Tempest's scythe ! Thank you !}$
 </details>
 
 </div>
