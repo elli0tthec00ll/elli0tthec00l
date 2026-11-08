@@ -11,7 +11,11 @@ $\color{#2BBF9F}\tiny\textsf{Best viewed on pc and with dark mode !}$
 
 </div>
 
+<div align="center">
+
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
+
+</div>
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{ᛝ ABOUT ME ♡}$</summary>
