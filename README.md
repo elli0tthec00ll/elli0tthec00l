@@ -22,17 +22,17 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <details>
 <summary>$\color{#2BBF9F}\textsf{ᛝ ABOUT ME ♡}$</summary>
   
-- $\color{#2BBF9F}\textsf{17 y/o .}$
+$\color{#2BBF9F}\textsf{17 y/o .}$
 
-- $\color{#2BBF9F}\textsf{He / Him , It / It's . NEVER use she / her terms on me please .}$
+$\color{#2BBF9F}\textsf{He / Him , It / It's . NEVER use she / her terms on me please .}$
 
-- $\color{#2BBF9F}\textsf{DID , Questioning BPD .}$
+$\color{#2BBF9F}\textsf{DID , Questioning BPD .}$
 
-- $\color{#2BBF9F}\textsf{Heavy Scythe and Mafioso kin .}$
+$\color{#2BBF9F}\textsf{Heavy Scythe and Mafioso kin .}$
 
-- $\color{#2BBF9F}\textsf{I follow people that are my friends and people who i think are cool and I'd love to interact with one day !}$
+$\color{#2BBF9F}\textsf{I follow people that are my friends and people who i think are cool and I'd love to interact with one day !}$
 
-- $\color{#2BBF9F}\textsf{More too be added .}$
+$\color{#2BBF9F}\textsf{More too be added .}$
 </details>
 
 </div>
@@ -48,15 +48,15 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <details>
 <summary>$\color{#2BBF9F}\textsf{𓏲ּ𝄢 BYI ₊⊹}$</summary>
 
-- $\color{#2BBF9F}\textsf{I will block freely .}$
+$\color{#2BBF9F}\textsf{I will block freely .}$
 
-- $\color{#2BBF9F}\textsf{I am offtab sometimes . whisper to interact is prefered !}$
+$\color{#2BBF9F}\textsf{I am offtab sometimes . whisper to interact is prefered !}$
 
-- $\color{#2BBF9F}\textsf{Tone tags aren't required when talking with me but they are highly encouraged .}$
+$\color{#2BBF9F}\textsf{Tone tags aren't required when talking with me but they are highly encouraged .}$
 
-- $\color{#2BBF9F}\textsf{Do not vent to me unless i consider you as a close or trusted friend .}$
+$\color{#2BBF9F}\textsf{Do not vent to me unless i consider you as a close or trusted friend .}$
   
-- $\color{#2BBF9F}\textsf{More too be added .}$
+$\color{#2BBF9F}\textsf{More too be added .}$
   </details>
 
   </div>
@@ -72,23 +72,23 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <details>
 <summary>$\color{#2BBF9F}\textsf{♯ WHERE YOU'LL SEE ME AT ಄}$</summary>
 
-- $\color{#2BBF9F}\huge\textsf{SAFE SERVER 1}$
+$\color{#2BBF9F}\huge\textsf{SAFE SERVER 1}$
   
-  - $\color{#2BBF9F}\textsf{Below Bakery}$
+$\color{#2BBF9F}\textsf{Below Bakery}$
 
-  - $\color{#2BBF9F}\textsf{Docks}$
+$\color{#2BBF9F}\textsf{Docks}$
 
-  - $\color{#2BBF9F}\textsf{Phighting Area}$
+$\color{#2BBF9F}\textsf{Phighting Area}$
 
-  - $\color{#2BBF9F}\textsf{Island (Probably spectating rps or hosting , I host Guess the characters sometimes !)}$
+$\color{#2BBF9F}\textsf{Island (Probably spectating rps or hosting , I host Guess the characters sometimes !)}$
 
-  - $\color{#2BBF9F}\textsf{With Friends (˶ˆᗜˆ˵)}$
+$\color{#2BBF9F}\textsf{With Friends (˶ˆᗜˆ˵)}$
  
-  - $\color{#2BBF9F}\huge\textsf{SAFE SERVER 2}$
+$\color{#2BBF9F}\huge\textsf{SAFE SERVER 2}$
  
-  - $\color{#2BBF9F}\textsf{Spawn}$
+$\color{#2BBF9F}\textsf{Spawn}$
  
-  - $\color{#2BBF9F}\textsf{Above Bakery}$
+$\color{#2BBF9F}\textsf{Above Bakery}$
   
   </details>
   
