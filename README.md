@@ -144,6 +144,8 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <img width="192" height="212" alt="pony-town-_🫧 - ᴍᴇ ᴀs ᴋoɪ - ғɪʜ w2i-dance-sit-blinking-padded-toy418-4x" src="https://github.com/user-attachments/assets/d92ee6bb-3e97-4ed6-b489-216fd4cb8cde" />
 
 <img width="196" height="224" alt="pony-town-_🌈 - ʙʀɪɢʜᴛᴇʏᴇs !-dance-sit-blinking-padded-4x (1)" src="https://github.com/user-attachments/assets/7e4af696-40b9-4f88-bdb3-b79fda8719c5" />
+
+<img width="200" height="220" alt="pony-town-_☀ - Aʟʏssᴀ ʟғ16 !-dance-sit-blinking-padded-toy489-4x" src="https://github.com/user-attachments/assets/c21063ca-2b29-4313-ae4f-b7bb337f21aa" />
 </details>
 
 </div>
