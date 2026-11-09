@@ -14,7 +14,7 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <details>
 <summary>$\color{#2BBF9F}\textsf{ᛝ ABOUT ME ♡}$</summary>
   
-$\color{#2BBF9F}\textsf{17 y/o .}$
+$\color{#2BBF9F}\textsf{Bodily 17 y/o .}$
 
 $\color{#2BBF9F}\textsf{He / Him , It / It's . NEVER use she / her terms on me please .}$
 
@@ -22,7 +22,7 @@ $\color{#2BBF9F}\textsf{DID , Questioning BPD .}$
 
 $\color{#2BBF9F}\textsf{Heavy Scythe and Mafioso kin .}$
 
-$\color{#2BBF9F}\textsf{I follow people that are my friends and people who i think are cool and I'd love to interact with one day !}$
+$\color{#2BBF9F}\textsf{We follow people that are our friends and people who we think are cool and we'd love to interact with one day !}$
 
 $\color{#2BBF9F}\textsf{More too be added .}$
 </details>
@@ -32,13 +32,13 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <details>
 <summary>$\color{#2BBF9F}\textsf{𓏲ּ𝄢 BYI ₊⊹}$</summary>
 
-$\color{#2BBF9F}\textsf{I will block freely .}$
+$\color{#2BBF9F}\textsf{We will block freely .}$
 
-$\color{#2BBF9F}\textsf{I am offtab sometimes . whisper to interact is prefered !}$
+$\color{#2BBF9F}\textsf{We are offtab sometimes . whisper to interact is prefered !}$
 
-$\color{#2BBF9F}\textsf{Tone tags aren't required when talking with me but they are highly encouraged .}$
+$\color{#2BBF9F}\textsf{Tone tags aren't required when talking with us but they are highly encouraged .}$
 
-$\color{#2BBF9F}\textsf{Do not vent to me unless i consider you as a close or trusted friend .}$
+$\color{#2BBF9F}\textsf{Do not vent to me unless we consider you as a close or trusted friend .}$
 
 $\color{#2BBF9F}\textsf{I am a VoidSharing chance yumeshipper so yes i will be blocking and / or avoiding doubles .}$
   
@@ -66,7 +66,7 @@ $\color{#2BBF9F}\textsf{Scythe and Mafioso kins ( Sorry i get uncomforable . ) .
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
 <details>
-<summary>$\color{#2BBF9F}\textsf{♯ WHERE YOU'LL SEE ME AT ಄}$</summary>
+<summary>$\color{#2BBF9F}\textsf{♯ WHERE YOU'LL SEE US AT ಄}$</summary>
 
 $\color{#2BBF9F}\huge\textsf{SAFE SERVER 1}$
   
@@ -76,7 +76,7 @@ $\color{#2BBF9F}\textsf{Docks}$
 
 $\color{#2BBF9F}\textsf{Phighting Area}$
 
-$\color{#2BBF9F}\textsf{Island (Probably spectating rps or hosting , I host Guess the characters sometimes !)}$
+$\color{#2BBF9F}\textsf{Island (Probably spectating rps or hosting , We host Guess the characters sometimes !)}$
 
 $\color{#2BBF9F}\textsf{With Friends (˶ˆᗜˆ˵)}$
 
@@ -93,7 +93,7 @@ $\color{#2BBF9F}\textsf{Above Bakery}$
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
 <details>
-<summary>$\color{#2BBF9F}\textsf{𓂃 PONIES YOU'LL SEE ME AS ۶ৎ}$</summary>
+<summary>$\color{#2BBF9F}\textsf{𓂃 PONIES YOU'LL SEE US AS ۶ৎ}$</summary>
   
 <img width="184" height="252" alt="pony-town-ᴡʀɪᴛɪɴɢ , ᴡ2ɪ , s-ᴀᴛᴀ , ᴄ_ʜ-dance-sit-blinking-padded-ponyplush-4x" src="https://github.com/user-attachments/assets/ffbf299a-5288-4e4d-98e7-b1c08633c155" />
 
