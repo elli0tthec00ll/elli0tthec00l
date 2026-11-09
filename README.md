@@ -4,24 +4,12 @@
 
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 
-</div>
-
-<div align="center">
-  
 $\color{#2BBF9F}\huge\textsf{[ SCYTHE ] : ❝ Oh how rude of me . . . Allow me too reintroduce myself properly ♡ ! ❞}$
 $\color{#2BBF9F}\tiny\textsf{Best viewed on pc and with dark mode !}$
 
 ![](https://komarev.com/ghpvc/?username=elli0tthec00ll&label=♡&color=2BBF9F)
 
-<div align="center">
-
-<div align="center">
-
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
-</div>
-
-<div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{ᛝ ABOUT ME ♡}$</summary>
@@ -39,15 +27,7 @@ $\color{#2BBF9F}\textsf{I follow people that are my friends and people who i thi
 $\color{#2BBF9F}\textsf{More too be added .}$
 </details>
 
-</div>
-
-<div align="center">
-
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
-</div>
-
-<div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{𓏲ּ𝄢 BYI ₊⊹}$</summary>
@@ -63,17 +43,9 @@ $\color{#2BBF9F}\textsf{Do not vent to me unless i consider you as a close or tr
 $\color{#2BBF9F}\textsf{I am a VoidSharing chance yumeshipper so yes i will be blocking and / or avoiding doubles .}$
   
 $\color{#2BBF9F}\textsf{More too be added .}$
-  </details>
-
-  </div>
-  
-<div align="center">
+</details>
 
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
-</div>
-
-   <div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{𓏵 DNI ♡}$</summary>
@@ -91,15 +63,7 @@ $\color{#2BBF9F}\textsf{Chance yumes !}$
 $\color{#2BBF9F}\textsf{Scythe and Mafioso kins ( Sorry i get uncomforable . ) .}$
 </details>
 
-</div>
-
-<div align="center">
-
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
-</div>
-
-  <div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{♯ WHERE YOU'LL SEE ME AT ಄}$</summary>
@@ -124,17 +88,9 @@ $\color{#2BBF9F}\textsf{Spawn}$
  
 $\color{#2BBF9F}\textsf{Above Bakery}$
   
-  </details>
-  
-</div>
-
-  <div align="center">
+</details>
 
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
-</div>
-
- <div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{𓂃 PONIES YOU'LL SEE ME AS ۶ৎ}$</summary>
@@ -148,15 +104,7 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 <img width="200" height="220" alt="pony-town-_☀ - Aʟʏssᴀ ʟғ16 !-dance-sit-blinking-padded-toy489-4x" src="https://github.com/user-attachments/assets/c21063ca-2b29-4313-ae4f-b7bb337f21aa" />
 </details>
 
-</div>
-
- <div align="center">
-
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
-</div>
-
- <div align="center">
 
 <details>
 <summary>$\color{#2BBF9F}\textsf{! NOMINATIONS !}$</summary>
@@ -168,15 +116,7 @@ $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
 [𖦏](https://github.com/THE-TEMPIST) $\color{#2BBF9F}\textsf{The Tempest | The Tempest's scythe ! Thank you !}$
 </details>
 
-</div>
-
- <div align="center">
-
 $\color{#2BBF9F}\textsf{⏔⏔⏔⏔⏔⏔⏔⏔⏔⏔}$
-
- </div>
-
- <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uga5depg3obejflohkiqaf7oke&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=2bbf9f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
